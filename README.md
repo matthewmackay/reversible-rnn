@@ -1,4 +1,4 @@
-# Reversible Recurrent Neural Networks (Rev-RNN)
+# Code for ["Reversible Recurrent Neural Networks" (NeurIPS 2018)](https://arxiv.org/abs/1810.10999)
 
 This repository contains the code for the paper [Reversible Recurrent Neural Networks (NeurIPS 2018)](https://arxiv.org/abs/1810.10999).
 
